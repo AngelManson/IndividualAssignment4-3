@@ -1,7 +1,7 @@
 # Polyline and Polygon
 
 # 1. What the App Does
-
+A app that displays a fake hiking trail as a polylin and a polygon that represents a park.
 
 # 2. Screenshot of the Running App
 
@@ -20,3 +20,4 @@
 
 
 # 4. AI Disclosure
+I used AI (ChatGPT) to select the hiking trail points as well as the park location. I also used ChatGPT to figure out what features the users can edit, I had some confusion on what the user should be able to change. 
